@@ -1,0 +1,2 @@
+# DankScore
+- Dependency: BonusScanner
